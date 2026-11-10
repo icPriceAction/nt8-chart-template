@@ -6,7 +6,7 @@
 [![YouTube Guide](https://img.shields.io/badge/YouTube-Watch%20Setup%20Video-red.svg)](https://youtube.com/@icPriceAction)
 [![Website](https://img.shields.io/badge/Website-icpriceaction.com-111213.svg)](https://icpriceaction.com)
 
-A minimalist, high-contrast chart template engineered for **ES / MES 2000-tick Price Action trading** on NinjaTrader 8. Designed to eliminate visual noise, remove grid clutter, and provide instant chart clarity.
+A minimalist, high-contrast chart template engineered for **trading** on NinjaTrader 8. Designed to eliminate visual noise, remove grid clutter, and provide instant chart clarity.
 
 ---
 
