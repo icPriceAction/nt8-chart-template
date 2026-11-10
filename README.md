@@ -14,7 +14,7 @@ A minimalist, high-contrast chart template engineered for **trading** on NinjaTr
 
 Watch the complete breakdown of every setting, color hex code, Chart Trader alignment, and hotkey configuration on YouTube:
 
-[![Watch the Setup Video](preview.png)](https://youtube.com/@icPriceAction)
+[![Watch the Setup Video](preview.png)](https://www.youtube.com/watch?v=7VWzoQpmfMk)
 
 > **[▶ Click here to watch the full configuration breakdown](https://youtube.com/@icPriceAction)**
 
